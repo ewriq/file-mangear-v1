@@ -1,0 +1,11 @@
+{
+  "name": "file-mangear",
+  "version": "1.0.0",
+  "description": "Bir chat appliaction websitesi.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "ewriq",
+  "license": "ISC"
+}
